@@ -92,7 +92,7 @@ section { max-width: var(--maxw); margin: 0 auto; padding: 50px 24px; }
 }
 .job { position: relative; margin-bottom: 34px; }
 .job::before {
-  content: ""; position: absolute; left: -28px; top: 6px;
+  content: ""; position: absolute; left: -29.5px; top: 6px;
   width: 14px; height: 14px; border-radius: 50%;
   background: var(--accent); border: 3px solid var(--bg);
   box-shadow: 0 0 0 2px var(--accent);
